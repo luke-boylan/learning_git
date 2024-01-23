@@ -5,5 +5,7 @@
 ##### Heading 5
 ###### Heading 6
 
-* bold *
-** italic **
+*bold*
+**italic**
+
+other way around, oops
